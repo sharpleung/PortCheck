@@ -6,6 +6,14 @@
 
 对指定ip进行快速扫描端口脚本。
 
+---
+
+## 声明
+
+本脚本仅做合法授权的安全测试所用，请勿用于非法用途。使用者造成的一切后果均与本人无关。
+
+
+
 ## 联系方式
 
 - ![](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Gqleung-brightgreen.svg)  
@@ -21,7 +29,7 @@ port-search.py...............脚本
 port_dic.txt.................端口字典
 ```
 
-### 使用方法
+## 使用方法
 
 ```shell
 python port-search.py ip threads
