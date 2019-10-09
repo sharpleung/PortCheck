@@ -4,7 +4,7 @@
 
 ## 描述
 
-对指定ip进行快速扫描
+对指定ip进行快速扫描端口脚本。
 
 ## 联系方式
 
@@ -31,3 +31,4 @@ eg:python port-search.py 127.0.0.1 100
 
 
 ![](https://raw.githubusercontent.com/sharpleung/PortCheck/master/pic/pic1.png)
+
